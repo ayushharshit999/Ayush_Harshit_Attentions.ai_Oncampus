@@ -17,5 +17,4 @@ This project is an interactive web app for querying a collection of research pap
 - **LangChain Modules**: Provides utilities for document handling and prompt customization.
 - **Gemma LLM**: Utilized for natural language understanding and response generation.
 - **Environment Variables**: Managed through `.env` to secure sensitive keys (e.g., API keys).
-Here is an overview of the streamlit application:
-![Power Amplifier Query App Screenshot](Screenshot 2024-11-11 002305.png)
+![Power Amplifier Query App Screenshot](images/example_image.png)
